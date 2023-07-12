@@ -6,6 +6,10 @@ Using YOLOPandas to explore and analyze data, and dataframes by writing queries.
 
 ## Installation
 
+```python
+pip install yolopandas
+```
+
 
 ## ⚠️ Warning: 
 YOLOPandas will execute arbitrary Python code on the machine it runs on.
