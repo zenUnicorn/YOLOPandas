@@ -12,4 +12,4 @@ pip install yolopandas
 
 
 ## ⚠️ Warning: 
-YOLOPandas will execute arbitrary Python code on the machine it runs on.
+YOLOPandas will execute arbitrary Python code on the machine it runs on..
